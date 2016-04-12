@@ -21,7 +21,7 @@
     "tests"
   ],
    "dependencies": {
-    "DataTables": "#1_10_11",
+    "DataTables": "#1.10.11",
     "select2": "4.0.0"
   }
 }
